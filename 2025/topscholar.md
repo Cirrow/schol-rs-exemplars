@@ -1,7 +1,3 @@
-Here is the complete line-by-line transcript of your handwritten exam booklet, preserving all original paragraph structures, quotations, and crossed-out words/edits.
-
----
-
 ### Page 2: Planning
 
 Transcend
