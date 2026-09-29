@@ -36,7 +36,7 @@ Deconstruct the recurring structural skeletons used by top-scoring candidates ac
 * **Scaffolding & Routing:** Map out the exact visual and structural scaffolding techniques used (e.g., explicit roadmap sentences, bolded thesis headings, numbering typologies, strategic horizontal transitions).
 * **Paragraph-Level Engineering:** Detail the internal anatomy of a typical body paragraph in an Outstanding-grade essay. How do candidates transition from theoretical premise $\rightarrow$ contextual/historical evidence $\rightarrow$ counter-perspective $\rightarrow$ synthesis?
 * **Pivots & Nuance Management:** Analyze how candidates construct "pivotal turns" (e.g., transitioning from Gould's NOMA to Harris's critique to Lennox's contextual counter-critique).
-* **Originality:** have in mind if the case studies/topics each persons write about is original or not. That is, would these examples be of actual use in bringing up the mark? Do they actually take away anything from them? How important is using original case studies in achieving highly?
+* **Originality:** have in mind if the case studies/topics each persons write about is original or not. That is, would these examples be of actual use in bringing up the mark? Do the students actually take away anything meaningful from them? How important is using original case studies in achieving highly?
 * **Vocabulary:** How fluffy or extravagant are the languages? Do the vocabulary/word choices or sentence phrasing have any effect on bringing up the mark? Does sounding "fancy" actually help?
 
 ### 2. What Top-Performers Consistently Get Right (The Execution Blueprint)
