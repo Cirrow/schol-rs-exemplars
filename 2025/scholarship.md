@@ -1,7 +1,3 @@
-Here is the complete transcript of the 2025 Religious Studies Scholarship exemplar booklet (`93603-exp-2025-scholarship.pdf`).
-
----
-
 ### Page 1
 
 **DIVERSITY, INCLUSION, AND EQUITY IN RELIGIOUS TRADITIONS**
