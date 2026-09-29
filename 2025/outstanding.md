@@ -1,7 +1,3 @@
-Here is the complete transcript of the 2025 Religious Studies Outstanding Scholarship exemplar booklet (`93603-exp-2025-outstanding.pdf`).
-
----
-
 ### Page 2: Planning & Essay Breakdown
 
 **PLANNING**
