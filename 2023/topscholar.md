@@ -1,7 +1,3 @@
-Here is the complete transcript of the 2023 Religious Studies Top Scholar exemplar booklet (`93603-Exemplar-Top-Scholar-2023-Scholarship-Religious-Studies.pdf`).
-
----
-
 ### Page 1
 
 **TOP SCHOLAR**
