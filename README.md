@@ -4,7 +4,7 @@ I've got AI to transcribe handwritten PDFs to readable texts.
 
 You could paste the link to this repository (https://github.com/Cirrow/schol-rs-exemplars) to any LLM of your choice, and have them analyse the texts for you, find patterns, etc. Or you could get them to generate a structured plan for your essay based on the exemplar answers.
 
-Visit the [diagnostics](https://github.com/Cirrow/schol-rs-exemplars/tree/main/diagnostics) folder to view what the LLMs generated based on the files of this repository.
+Visit the [diagnostics](https://github.com/Cirrow/schol-rs-exemplars/tree/main/diagnostics) folder to view what the LLMs generated based on the files of this repository. It contains analyses of these exemplars - common patterns, strategies, and things to avoid, etc.
 
 
 ## File structure
