@@ -1,6 +1,6 @@
 # Diagnostic: Scholarship Religious Studies (93603) exemplar corpus, 2022–2025
 
-**Method note.** The /council method relies on parallel sub-agents, which this chat cannot spawn. I ran its five lenses in sequence over a draft of the findings and applied the result (see "Council review"). **Codes:** year + band (S = Scholarship, O = Outstanding, T = Top Scholar), so 24-T = 2024 Top Scholar. Page numbers are booklet pages in the transcriptions; where none exist I cite paragraph (¶) or section. Quotes are verbatim; words the 25-T candidate struck out are excluded.
+**Codes:** year + band (S = Scholarship, O = Outstanding, T = Top Scholar), so 24-T = 2024 Top Scholar. Page numbers are booklet pages in the transcriptions; where none exist I cite paragraph (¶) or section. Quotes are verbatim; words the 25-T candidate struck out are excluded.
 
 ## 0. Corpus inventory
 
